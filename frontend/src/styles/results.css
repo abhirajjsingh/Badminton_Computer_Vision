@@ -1,0 +1,163 @@
+.results-page {
+  background-color:white;
+  border: 2px solid black;
+
+  font-family: 'Courier New', Courier, monospace;
+  
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+
+}
+.winErrorShots{
+ height: 320px;
+ width: 400px;
+
+}
+
+.h5_1{
+  margin-left: 20px;
+  
+}
+.react-tabs .react-tabs__tab {
+  color: black; /* Change to desired color */
+  background-color: #74C6EF;
+font-weight: bold;
+  margin-right: 20px;
+  font-size: 1rem;
+  border-radius: 20px;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: black;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background:#74C6EF; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: orange; 
+}
+
+.h4_1{
+
+font-size: 1.2rem;
+
+width: 200px;
+height: 100px;
+text-align: center;
+}
+.div1{
+  color: black;
+  text-align: center;
+  width: 200px;
+}
+.p1{
+  display: flex;
+  height: 100px;
+  flex-direction: column;
+  
+}
+.table1{
+
+  margin-top: 20px;
+  margin-right: 30px;
+  height: 200px;
+  padding: 20px 20px;
+}
+td,tr,th{
+ 
+height: 10px;
+}
+.dropdown-1_1{
+justify-content: center;
+  align-items: center;
+  display: flex;
+
+margin-bottom: 20px;
+  align-items: center;
+
+}
+.analyze{
+  margin-left: 340px;
+  font-weight: bold;
+  color: black;
+  font-size: 1.8rem;
+  transform: translateX(-136px);
+}
+.rallies{
+  display: flex;
+}
+.tablist{
+  border: 2px solid black;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin: auto;
+ padding: 20px 40px;
+}
+.tablist-2{
+  margin-left: 180px;
+  margin-bottom: 20px;
+}
+.compare-section-one {
+  
+    background: radial-gradient(circle,white,#74C6EF);
+   font-family: 'Courier New', Courier, monospace;
+   border: 20px solid black !important;
+border-radius: 20px;
+  /* background-color:  */
+  display: flex;
+  flex-direction: row;
+  gap: 60px;
+  height: 300px;
+}
+
+.compare-section-one img {
+  height: 100%;
+  width: 50%;
+}
+.table0{
+ 
+  display: flex;
+  
+  height: 300px;
+}
+
+.compare-section-two {
+
+  display: flex;
+
+  flex-direction: row;
+  gap: 30px;
+  height: auto;
+}
+
+table {
+  border-collapse: collapse;
+  color: black;
+
+}
+td {
+  border: 1px solid black;
+  background-color: linear-gradient(90deg, rgba(255, 255, 255, 0.5), rgba(26, 37, 48, 0));
+}
+th, td {
+  font-weight: bold;
+  padding: 8px;
+  text-align: left;
+}
+.table0{
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
